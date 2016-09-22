@@ -14,9 +14,6 @@
 
 利用大数据人工智能，将意识翻译成梦的语言，通过梦与你沟通。
 
-###项目封面
-![梦.png](http://upload-images.jianshu.io/upload_images/1565564-caae78f22374d07a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ###项目简介：
 
 设计一款面向全球用户，工作梦、植入梦、孵化梦的App。
